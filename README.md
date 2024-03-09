@@ -1,0 +1,2 @@
+# MandalaySAT
+Initial set-ups.
